@@ -4,3 +4,5 @@
 - gcc shm_read.c -o shm_read
   
 のようにコンパイルすること
+
+また、aoti(要stdlib)はエラー処理ができるstrtolに置き換え推奨
